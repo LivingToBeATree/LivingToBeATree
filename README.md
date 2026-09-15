@@ -134,5 +134,5 @@ current_focus:
 <br>
 
 <div align="center">
-  <sub>Designed with love & care for <strong>LivingToBeATree</strong>.With these branches I shall reach everyone in the world! 🌲✨</sub>
+  With these branches I shall reach everyone in the world! 🌲✨</sub>
 </div>
